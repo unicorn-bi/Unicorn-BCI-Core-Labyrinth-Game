@@ -13,7 +13,7 @@ The Labyrinth game is a **Unity-based Windows application**.
 
 You can download the latest version from the **GitHub Releases page**:
 
-➡️ **[Download Labyrinth (GitHub Releases)](https://github.com/unicorn-bi/Unicorn-BCI-Core-Labyrinth-Game/releases)**
+➡️ **[Download Labyrinth (GitHub Releases)](https://github.com/unicorn-bi/Unicorn-BCI-Core-Labyrinth-Game/releases/latest)**
 
 This will download a **ZIP archive** containing the executable and all required files.
 
