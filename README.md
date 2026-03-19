@@ -6,8 +6,8 @@ Unleash the power of your mind and navigate your way out of the labyrinth.
 
 The application works exclusively with the following devices:
 
-* [Unicorn BCI Core 8](https://www.gtec.at/product/unicorn-bci-core-8-eeg-device-for-high-quality/)
-* [Unicorn BCI Core 4 Headband](https://www.gtec.at/product/unicorn-bci-core-4-headband/)
+* [Unicorn BCI Core-8](https://www.gtec.at/product/unicorn-bci-core-8-eeg-device-for-high-quality/)
+* [Unicorn BCI Core-4 Headband](https://www.gtec.at/product/unicorn-bci-core-4-headband/)
 
 The Labyrinth game is a **Unity-based Windows application**.
 
@@ -32,7 +32,7 @@ This will download a **ZIP archive** containing the executable and all required 
 
 To run the Labyrinth game you will need:
 
-* **Unicorn BCI Core 8** or **Unicorn BCI Core 4 Headband**
+* **Unicorn BCI Core-8** or **Unicorn BCI Core-4 Headband**
 * **Windows 10 or newer**
 * **Bluetooth 5.0 or newer**
 
@@ -94,7 +94,7 @@ The **color and height of the spheres** indicate signal quality:
 * 🟢 **Green spheres** – excellent signal quality
 * 🟠 **Orange spheres** – insufficient signal quality
 
-In the example below (using the Unicorn BCI Core 8), the first three channels have insufficient signal quality.
+In the example below (using the Unicorn BCI Core-8), the first three channels have insufficient signal quality.
 
 <p align="center">
 <img src="img/LabyrinthPC_Amplifier8ch_bad.png" width="600">
